@@ -22,7 +22,7 @@ module.exports = {
             items: [{
                 to: "docs/puppeteer.puppeteer",
                 // activeBasePath: "docs",
-                label: "AP",
+                label: "APP",
                 position: "left",
             },
             {
